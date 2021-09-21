@@ -1,0 +1,2 @@
+import pywhatkit as kit 
+kit.sendwhatmsg("Provide the receiver no.s", "Your message", 20,40 )
